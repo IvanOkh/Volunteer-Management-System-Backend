@@ -2,7 +2,7 @@
 ![login page image](images/Login-Page-1.1.jpg)
 
   ## Problem
-CARS is using an external volunteer management system. The client would like a new system that fits their needs better as the existing system has many features that they do not utilize. Given that it is a pay to use system, the end goal is to take CARS off of it and build a system that is more in line with their day to day activities. 
+CARS is using an external management system. The client would like a new system that fits their needs better as the existing system has many features that they do not utilize. Given that it is a pay to use system, the end goal is to take CARS off of it and build a system that is more in line with their day to day activities. 
 They also used an external application management system. This application system handles dog and cat adoption forms as well as foster applications. They would like to move off this system to both save money and to have all their services concentrated into one application. 
 The major goal of this project was to build and deploy a system that handles the organization’s volunteers and forms.
 
